@@ -1,5 +1,5 @@
 {
-  "ABC123": { "status": "active" },
-  "XYZ789": { "status": "banned" },
-  "VIP111": { "status": "active" }
+  "ABC123": { "status": "active", "expire": 1767225600 }, 
+  "XYZ789": { "status": "banned", "expire": 0 },
+  "VIP111": { "status": "active", "expire": 1769904000 }
 }
