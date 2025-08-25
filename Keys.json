@@ -1,0 +1,5 @@
+{
+  "ABC123": { "status": "active" },
+  "XYZ789": { "status": "banned" },
+  "VIP111": { "status": "active" }
+}
